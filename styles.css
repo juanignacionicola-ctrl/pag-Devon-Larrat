@@ -62,7 +62,7 @@ body{
 
 
 
-/* estilo general de tus botones */
+
 a {
     text-decoration: none;
     color: black;
@@ -71,14 +71,14 @@ a {
     transition: 0.3s;
 }
 
-/* efecto hover */
+
 a:hover {
-    background-color:#ffa012; /* color al pasar el mouse */
+    background-color:#ffa012; 
     color:#ff8812 white;
     border-radius: 4px;
 }
 
-/* estilo para la página activa (active) */
+
 a.active {
     background-color: ##ff8812;
     color: white;
